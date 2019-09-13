@@ -25,7 +25,10 @@ body{
    background-color: rgb(180, 180, 223);
    font-family: Verdana, Geneva, sans-serif;
 }
-
+/*step9*/
+h1, h2{
+   font-weight: normal;
+}
 
 
 /* Body Header Styles */
