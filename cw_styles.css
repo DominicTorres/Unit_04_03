@@ -29,6 +29,10 @@ body{
 h1, h2{
    font-weight: normal;
 }
+/*step10*/
+nav#outline li a{
+   text-decoration: none;
+}
 
 
 /* Body Header Styles */
