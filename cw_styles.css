@@ -46,6 +46,10 @@ footer{
 
 /* Body Header Styles */
 
+/*step12*/
+body > header{
+   background-color: rgb(97, 97, 211);
+}
 
 
 
