@@ -62,10 +62,17 @@ body > header > h1 > span{
    color: rgba(255, 255, 255, 0.4);
 }
 
-
 /* Navigation Styles */
 
-
+/*step15*/
+nav#mainlinks > ul > li > a{
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+/*step16*/
+ nav a:visited, a:link{
+   color: white
+}
 
 
 /* Outline Styles */
