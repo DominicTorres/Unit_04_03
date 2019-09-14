@@ -83,7 +83,12 @@ nav#mainlinks > ul > li > a > a:hover, a:active{
 
 /*step18*/
 nav#outline > ol > li > a{
-   
+   color: rgb(51, 51, 51);
+   font-size: 0.8em;
+}
+/*step19*/
+nav#outline h1{
+   text-align: center;
 }
 
 
