@@ -33,6 +33,15 @@ h1, h2{
 nav#outline li a{
    text-decoration: none;
 }
+/*step11*/
+footer{
+   color: white;
+   background-color: rgb(101, 101, 101);
+   font-size: 0.8em;
+   text-align: center;
+   padding-top: 1px;
+   padding-bottom: 1px;
+}
 
 
 /* Body Header Styles */
