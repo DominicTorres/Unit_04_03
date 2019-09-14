@@ -70,14 +70,21 @@ nav#mainlinks > ul > li > a{
    padding-bottom: 5px;
 }
 /*step16*/
- nav a:visited, a:link{
-   color: white
+ nav#mainlinks > ul > li > a > a:visited, a:link{
+   color: white;
 }
-
+/*step17*/
+nav#mainlinks > ul > li > a > a:hover, a:active{
+   opacity: 0.8;
+   background-color: rgba(51, 51, 51, 0.5);
+}
 
 /* Outline Styles */
 
-
+/*step18*/
+nav#outline > ol > li > a{
+   
+}
 
 
 /* Section Styles */
