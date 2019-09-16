@@ -134,6 +134,11 @@ section > header > h1{
 article > h2{
    font-size: 1.4em;
 }
+/*step27*/
+article > p:first-of-type::first-letter{
+   font-size: 2em;
+   vertical-align: baseline;
+}
 
 
 
