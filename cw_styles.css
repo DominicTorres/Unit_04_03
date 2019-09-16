@@ -103,6 +103,10 @@ nav#outline ol{
 nav#outline li ol{
    list-style-type: upper-latin;
 }
+/*step22*/
+nav#outline a:visited, a:link{
+   color: rgb(101, 101, 101);
+}
 
 
 /* Section Styles */
