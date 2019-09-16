@@ -91,13 +91,13 @@ nav#outline h1{
    text-align: center;
 }
 /*step20*/
-nav#outline > ol > li > a{
+nav#outline ol{
    line-height: 2em;
    margin-top: 0px;
    margin-bottom: 0px;
    margin-left: 5px;
    margin-right: 5px;
-   list-style: upper-roman;
+   list-style-type: upper-roman;
 }
 
 
