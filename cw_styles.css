@@ -130,6 +130,10 @@ section > header > h1{
 
 /* Article Styles */
 
+/*step26*/
+article > h2{
+   font-size: 1.4em;
+}
 
 
 
