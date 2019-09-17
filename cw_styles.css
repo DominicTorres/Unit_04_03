@@ -144,5 +144,10 @@ article > p:first-of-type::first-letter{
 aside{
    font-size: 0.9em;
 }
+/*step29*/
+aside > h1{
+   font-size: 1.4em;
+   text-align: center;
+}
 
 
