@@ -126,8 +126,6 @@ section > header > h1{
    padding-left: 10px;
 }
 
-
-
 /* Article Styles */
 
 /*step26*/
@@ -140,7 +138,11 @@ article > p:first-of-type::first-letter{
    vertical-align: baseline;
 }
 
-
-
 /* Aside Styles */
+
+/*step28*/
+aside{
+   font-size: 0.9em;
+}
+
 
